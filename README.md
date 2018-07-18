@@ -7,6 +7,7 @@
 ```
 $ git clone https://github.com/easy-mock/migrate2local.git
 $ cd migrate2local
+$ npm install
 $ node index.js
 ```
 
